@@ -17,3 +17,4 @@ It is not required to implement all the features you can think of. A clean bare 
 
 ## When you are finished
 Submit your solution to a Github repository and send us a link.
+It is very unlikely, but not impossible that this test will change. It's always a good idea to fork this repository before you begin.
