@@ -4,16 +4,16 @@
 With this test, we want to see your ability to create an entire infrastructure from scratch as well as your skills as a system administrator.
 
 ## The task
-Your task is to provision a highly available wordpress cluster. The entry point of the cluster should be a host and port 443.
+Your task is to provision a highly available Wordpress/Drupal cluster. The entry point of the cluster should be a host and port 443.
 
 ## The solution
-In your solution please enphasize on readability, maintanability and DevOps methodologies. We expect a clear way to recreate your setup.
+In your solution please emphasize on readability, maintainability and DevOps methodologies. We expect a clear way to recreate your setup.
 
-Use git. We like seing history of small improvements instead of big pushes with unclear goals.
+Use git. We like seeing history of small improvements instead of big pushes with unclear goals.
 
-If you wish, you can use a configuration management tool (We use ansible). The infrastructure provider is up to you (We use AWS, Vagrant and Docker).
+If you wish, you can use a configuration management tool (We use Ansible). The infrastructure provider is up to you (We use AWS, Vagrant and Docker).
 
-It is not required to implement all the features you can think of. A clean bare minimum working infrastructure is prefered than a full blown solution peaced together with scissors, rope and duct tape. Do not skip security considerations.
+It is not required to implement all the features you can think of. A clean bare minimum working infrastructure is preferred than a full blown solution pieced together with scissors, rope and duct tape. Do not skip security considerations.
 
 ## When you are finished
 Submit your solution to a Github repository and send us a link.
