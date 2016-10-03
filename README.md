@@ -4,7 +4,7 @@
 With this test, we want to see your ability to create an entire infrastructure from scratch as well as your skills as a system administrator.
 
 ## The task
-Your task is to provision a highly available Wordpress/Drupal cluster. The entry point of the cluster should be a host and port 443.
+Your task is to provision a highly available /[Gitlab](https://about.gitlab.com/)/[Discourse](https://www.discourse.org/)/Rails CMS of your choice/. The entry point of the cluster should be a host and port 443.
 
 ## The solution
 In your solution please emphasize on readability, maintainability and DevOps methodologies. We expect a clear way to recreate your setup.
